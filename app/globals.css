@@ -25,3 +25,20 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+#headingCounter{
+  margin-top: 20px;
+  margin-left: 70px;
+  font-size: 50px;
+  font-weight: bold;
+}
+.counterSection{
+  margin: 70px;
+  border: 2px;
+  border-color:yellow ;
+}
+
+.buttonstyle{
+  color: blue;
+  border-color: orange;
+  
+}
